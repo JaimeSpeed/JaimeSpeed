@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JaimeSpeed
 - 👀 I’m interested in data analytics
-- 🌱 I’m currently learning full stack web development with MIT xPro
+- 🌱 Certified full stack web development from MIT xPro
 - 📫 How to reach me SpeedJaime1738@gmail.com
 
 <!---
